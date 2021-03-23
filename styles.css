@@ -1,0 +1,25 @@
+body{
+    background-color: crimson;
+    font-family: 'Caveat', cursive;
+    font-size: 20px;
+}
+
+#texto  {
+background-color: rgb(0, 255, 0);
+  margin: rigth;
+}
+
+
+#identidad {
+    float: rigth;
+
+}
+
+#imagen {
+  max-width: 65px; 
+ float: right;
+}
+
+#boton{
+    float: inline-end;
+}
